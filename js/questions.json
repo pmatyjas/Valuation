@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "sport",
+      "ques": "Ile wynosi rekord prędkości piłki tenisowej w km/h?  w km/h",
+      "correctAnswer": 263,
+      "description": "Ustanowiony przez Samuela Groth'a w 2012 roku."
+    },{
+      "id": 2,
+      "category": "sport",
+      "ques": "Ile wynosi rekor Guinnesa w kategorii najgłębsze nurkowanie? w Metrach",
+      "correctAnswer": 332.35,
+      "description": "Ustanowiony w 2014 roku przez Achmeda Gabra."
+    },
+    {
+      "id": 3,
+      "category": "sport",
+      "ques": "Jaka jest największa odległość z jakiej zdobyto gola w piłce nożnej? w Metrach",
+      "correctAnswer": 91.9,
+      "description": "Zdobywcą gola jest Asmir Begović"
+    },
+    {
+      "id": 4,
+      "category": "sport",
+      "ques": "Jaki jest najdłuższy przebiegnięty dystans bez przerw w km? ",
+      "correctAnswer": 500,
+      "description": "Rekord należy do Kim Allen z Nowej Zelandii"
+    },
+    {
+      "id": 5,
+      "category": "Finanse",
+      "ques": "Ile kosztuje najdroższy miód na świecie? Odp w zł ",
+      "correctAnswer": 21000,
+      "description": "Elfi miód pozyskiwany jest w jaskini w dolinie Sarivayir w Turcji"
+    },
+    {
+      "id": 6,
+      "category": "Finanse",
+      "ques": "Ile wynosi majatek najbogatszego kota na świecie?  mln eur",
+      "correctAnswer": 10,
+      "description": "Kot ma na imię Tommaso i pochodzi z Włoch"
+    },
+    {
+      "id": 7,
+      "category": "finanse",
+      "ques": "Ile kosztuje najdroższy samochód kempingowy świata? mln eur",
+      "correctAnswer": 2.9,
+      "description": "Van został zaprojektowany przez firmę Marchi Mobiles."
+    },
+    {
+      "id": 8,
+      "category": "Finanse",
+      "ques": "Ile kosztuje kanapka  BigMac w Szwajcarii?  zł",
+      "correctAnswer": 24.65,
+      "description": "Sama kanapka, taka sama na całym świecie"
+    },
+    {
+      "id": 9,
+      "category": "Finanse",
+      "ques": "Ile wynosi wynagrodzenie prezydenta Stanów Zjednooczonych Donalna Trumpa? w USD" ,
+      "correctAnswer": 0,
+      "description": "Ile dolarów zarabia miesięcznie"
+    },
+    {
+      "id": 10,
+      "category": "Geografia",
+      "ques": "Ile wynosi dystans z Krakowa do Barcelony? w km",
+      "correctAnswer": 1684,
+      "description": "W linii prostej."
+    },
+    {
+      "id": 11,
+      "category": "Geografia",
+      "ques": "Ile wynosi długość Amazonki? w  km",
+      "correctAnswer": 6800,
+      "description": "Najdłuższa rzeka świata."
+    },
+    {
+      "id": 12,
+      "category": "Geografia",
+      "ques": "Ile metrów ma Mont Blanc?  m",
+      "correctAnswer": 4808.72,
+      "description": "Najwyższy szczyt Europy."
+    },
+    {
+      "id": 13,
+      "category": "Geografia",
+      "ques": "Ile wynosi obwód Ziemi? w km",
+      "correctAnswer": 40075,
+      "description": "W kilometrach."
+    },
+    {
+      "id": 14,
+      "category": "Geografia",
+      "ques": "Ile wynosi populacja Watykanu? [ osób]",
+      "correctAnswer": 1000,
+      "description": "Najmnijesze państwo na świecie."
+    },
+    {
+      "id": 15,
+      "category": "Architektura",
+      "ques": "Ile waży wieża Eiffla? Odp podaj w tonach",
+      "correctAnswer": 10500,
+      "description": "W tonach."
+    }
+  ]
+}
+

@@ -1,0 +1,197 @@
+$transparent: rgba(255,255,255,0.2);
+
+body{
+  margin:0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 23px;
+  color: #fff;
+}
+
+.app{
+  width: 1400px;
+  height: 100vh;
+  margin: 0 auto;
+  background: linear-gradient(rgba(51,38,121,.8), rgba(51,38,121,.8)),url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-header{
+  font-family: 'Bowlby One SC', cursive;
+  letter-spacing: 15px;
+  color: #fff;
+  text-shadow: -5px 8px 2px rgba(15,7,56,1);
+  font-size: 100px;
+}
+.game-header span{
+  font-size: 170px;
+}
+.game-title{}
+.team-render-container{}
+.each-team{
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.team-box{
+  display: flex;
+  justify-content: center;
+  background-color: $transparent;
+  padding: 25px;
+  margin-bottom: 30px;
+  border-radius: 50px;
+
+  -webkit-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  -moz-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  border: 1px solid #fff;
+}
+
+.team-icons{}
+.team-title{
+  line-height: 0px;
+}
+
+.timer{}
+.timer-text{}
+.timer-clock{}
+
+.question-container{
+  display: flex;
+  justify-content: center;
+}
+.team-render-container{}
+
+.section-question{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.question-timer-section{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.category-question{
+  min-width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+
+  width: 60%;
+  margin-right: 50px;
+  background-color: $transparent;
+  border-radius: 50px;
+  padding: 15px;
+
+  -webkit-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  -moz-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  border: 1px solid #fff;
+
+}
+.category{}
+.question{}
+
+.button{
+  background-color: $transparent;
+  color: #fff;
+  border-radius: 30px;
+  font-family: 'Bowlby One SC', cursive;
+  text-transform: uppercase;
+  width: 250px;
+  height: 65px;
+  padding: 5px;
+
+  -webkit-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  -moz-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  border: 1px solid #fff;
+}
+.button:hover{
+  cursor: pointer;
+}
+.lotto , .start-btn, .next-button{
+  font-size: 20px;
+}
+.section-answer{
+  margin-top: 40px;
+  width: 600px;
+  height: 150px;
+}
+.form-answer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.answer-label{
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+.answer, .submit-answer{
+
+  display: block;
+  width: 300px;
+  height: 50px;
+  margin: 10px;
+  border:none;
+  border-radius: 30px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.submit-answer{}
+
+.answer:hover, .submit-answer:hover{
+  cursor: pointer;
+}
+.answer:focus, .submit-answer:focus{
+  outline-color: #43FF19;
+}
+
+.submit-answer{
+  background-color: $transparent;
+  color: #fff;
+  -webkit-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  -moz-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  border: 1px solid #fff;
+}
+
+.next-section{
+  margin-top: 80px;
+}
+.next-button{
+  margin-left: 700px;
+}
+
+.results{
+  background-color: $transparent;
+  border-radius: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  -webkit-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  -moz-box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  box-shadow: -5px 5px 5px 0px rgba(15,7,56,1);
+  border: 1px solid #fff;
+
+}
