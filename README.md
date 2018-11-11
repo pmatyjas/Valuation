@@ -31,4 +31,5 @@ $ npm run start
 $ json-server --watch ./js/questions.json
 </code>
 <h3>Screenshot</h3>
+
 ![screen](./images/screenshot.jpg)
